@@ -1,1 +1,1 @@
-# youtube-exercise
+A youtube exercise for The Odin Project
